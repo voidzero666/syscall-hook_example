@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wpm_hook", "wpm_hook\wpm_hook.vcxproj", "{72A23AF6-77E1-4974-BCED-5424613C4EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A23AF6-77E1-4974-BCED-5424613C4EBD}.Debug|x64.ActiveCfg = Debug|x64
+		{72A23AF6-77E1-4974-BCED-5424613C4EBD}.Debug|x64.Build.0 = Debug|x64
+		{72A23AF6-77E1-4974-BCED-5424613C4EBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{72A23AF6-77E1-4974-BCED-5424613C4EBD}.Debug|x86.Build.0 = Debug|Win32
+		{72A23AF6-77E1-4974-BCED-5424613C4EBD}.Release|x64.ActiveCfg = Release|x64
+		{72A23AF6-77E1-4974-BCED-5424613C4EBD}.Release|x64.Build.0 = Release|x64
+		{72A23AF6-77E1-4974-BCED-5424613C4EBD}.Release|x86.ActiveCfg = Release|Win32
+		{72A23AF6-77E1-4974-BCED-5424613C4EBD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EE00CE8-9B3F-487D-83DB-3C29BA283ADC}
+	EndGlobalSection
+EndGlobal
